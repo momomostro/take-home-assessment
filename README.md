@@ -34,6 +34,13 @@ The page was built using Bootstrap Studio as a static, responsive website, imple
 
 4 hours and 20 minutes, including design, layout, style adjustments, responsive testing, GitHub Pages deployment, and writing this README file.
 
+## ⚠️ Tricky elements
+
+Some elements took more time than others due to the importance of figuring out the best way to display them in smaller devices and present them in an accessible way.
+
+- The form design is not very standard on desktop but was adapted for mobile in a more standard layout.  
+- The device features also was particularly tricky because of the arrangement of the elements and the fact that Bootstrap framework doesn't include css grid, so I have to create it with flexbox.
+
 ---
 
 💬 *Thank you for the opportunity to complete this assessment. I’m open to any feedback!*
